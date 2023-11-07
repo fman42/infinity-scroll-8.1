@@ -8,7 +8,7 @@ use InfinityScrollPagination\Service\Contracts\Request as RequestContract;
 final class Request implements RequestContract
 {
     const DEF_TO = 25;
-    const MAX_TO = 50;
+    const MAX_TO = 200;
 
     private ?string $identifyKey;
     private int $to;
