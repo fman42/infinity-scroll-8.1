@@ -1,0 +1,9 @@
+/vendor
+composer.lock
+/.idea
+.phpunit.result.cache
+*.DS_Store
+.DS_Store?
+.vagrant
+.env
+.env.dusk.local
