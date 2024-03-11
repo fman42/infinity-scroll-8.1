@@ -1,8 +1,8 @@
 {
-  "name": "monstrikus/infinity_scroll_php",
+  "name": "fman42/infinity_scroll_php",
   "description": "Large Object Transmission Control Protocol",
   "keywords": [],
-  "homepage": "https://github.com/monstrikus/infinity_scroll_php",
+  "homepage": "https://github.com/fman42/infinity-scroll-8.1",
   "version": "0.0.1",
   "license": "MIT",
   "require": {
